@@ -38,11 +38,45 @@
 
 ---
 
-### 📌 Featured Projects
-- 🌾 **Farm Connect** – Direct market access app for farmers (React Native + Firebase)  
-- 📰 **QuickFeed Tamil Nadu** – State-specific daily updates platform (Supabase + Cron)  
-- 🎓 **Academic Management System** – Multi-portal system for schools (Firebase)  
-- 🎒 **Veltech Student Toolkit** – GPA, attendance, events & announcements dashboard  
+### 📌 Featured Projects  
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🌾 Farm Connect</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+      </p>
+      <p>🚜 A Direct Market Access app that connects farmers directly with buyers, eliminating intermediaries and ensuring fair prices.</p>
+      <p align="center">
+        <a href="https://github.com/sharveshsanjay/Farm-Connect" target="_blank">
+          <img src="https://img.shields.io/badge/🔗%20View%20Project-blue?style=for-the-badge"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎒 Veltech Student Toolkit</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/HTML-CSS-blue?style=for-the-badge" />
+      </p>
+      <p>🎯 A student dashboard for GPA/CGPA calculation, attendance tracking, events & announcements, designed for **Veltech University**.</p>
+      <p align="center">
+        <a href="https://github.com/sharveshsanjay/Veltech-Student-Toolkit" target="_blank">
+          <img src="https://img.shields.io/badge/🔗%20View%20Project-blue?style=for-the-badge"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
