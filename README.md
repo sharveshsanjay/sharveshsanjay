@@ -2,20 +2,28 @@
 <h3 align="center">🚀 CSE (AI & DS) Student | Full-Stack Developer | UI/UX Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sharveshsanjay&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 2nd Year Computer Science Engineering (AI & DS) student at **Veltech University**  
-- 🔭 Working on **AI-Powered Sales Analytics Framework for Business Decision Support** *(Minor Project I)*  
-- 💡 Founder of **Infonex Solutions** – providing design & tech services  
-- 🌱 Currently learning **React.js, Angular, Java, and UI/UX Design**  
-- 📚 Exploring **Data Science, Firebase, and Scalable Systems**  
-- 👨‍💻 My projects are available at: [🌐 sharveshsanjay.netlify.app](https://sharveshsanjay.netlify.app)  
-- 💬 Ask me about **JavaScript, Firebase, React Native**  
-- 📫 Reach me at: **sharveshsanjay10@gmail.com**  
+### 👨‍💻 About Me  
+
+Hello! I’m **Sharvesh Sanjay**, a passionate **Computer Science Engineer (AI & DS)** blending technology with creativity to craft impactful digital solutions.  
+
+- 🎓 Currently pursuing **B.Tech CSE (AI & Data Science)** @ Veltech University, Chennai (2023–2027)  
+- 🚀 Founder of **Infonex Solutions** – delivering design, innovation & tech-driven products  
+- 💡 Skilled in **Full-Stack Development, Data Science, and Cloud-based Applications**  
+- 🌱 Actively learning and building with **React.js, Angular, Java, UI/UX, and Firebase**  
+- ⚡ Experienced in developing **AI-powered apps, academic systems & productivity tools**  
+- ✨ Strong interest in solving real-world problems through **scalable, user-focused solutions**  
+- 🌍 Vision: to make technology more **accessible, efficient, and impactful**  
+
+📬 Reach me: **sharveshsanjay10@gmail.com**  
+🌐 Portfolio: [sharveshsanjay.netlify.app](https://sharveshsanjay.netlify.app)  
+💬 Let’s connect over **JavaScript, React Native, Firebase, or innovative project ideas!**  
+
+
 
 ---
 
@@ -32,9 +40,28 @@
 ---
 
 ### 🛠️ Languages & Tools
+<h3 align="left">🚀 Tech Stack & Tools I Use:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,py,js,html,css,react,angular,vue,flutter,nodejs,php,mysql,sqlite,firebase,supabase,git,figma,photoshop,bootstrap,tailwind,c,chartjs,pandas" />
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=java,py,js,ts,c,cpp,html,css" />
+  <br/>
+
+  <!-- Frameworks & Libraries -->
+  <img src="https://skillicons.dev/icons?i=react,angular,vue,nextjs,nodejs,express,flutter,bootstrap,tailwind,chartjs" />
+  <br/>
+
+  <!-- Databases & Backend -->
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,supabase,mongodb,postgres" />
+  <br/>
+
+  <!-- Tools & Platforms -->
+  <img src="https://skillicons.dev/icons?i=git,github,figma,photoshop,vscode,postman,androidstudio" />
+  <br/>
+
+  <!-- Data Science / AI -->
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,pandas,numpy" />
 </p>
+
 
 ---
 
@@ -43,35 +70,39 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🌾 Farm Connect</h3>
+      <h3 align="center">🌾 <span style="color:#4CAF50;">Farm Connect</span></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
       </p>
-      <p>🚜 A Direct Market Access app that connects farmers directly with buyers, eliminating intermediaries and ensuring fair prices.</p>
+      <p align="center">
+        🚜 A **Direct Market Access App** that connects farmers directly with buyers, ensuring fair prices by eliminating intermediaries.  
+      </p>
       <p align="center">
         <a href="https://github.com/sharveshsanjay/FarmConnect" target="_blank">
-          <img src="https://img.shields.io/badge/🔗%20View%20Project-blue?style=for-the-badge"/>
+          <img src="https://img.shields.io/badge/🔗%20View%20Project-success?style=for-the-badge"/>
         </a>
       </p>
     </td>
   </tr>
 </table>
-
----
-
 <table>
   <tr>
     <td width="50%">
       <h3 align="center">🎒 Veltech Student Toolkit</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/HTML-CSS-blue?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Built%20With-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS-blue?style=for-the-badge" />
       </p>
-      <p>🎯 A student dashboard for GPA/CGPA calculation, attendance tracking, events & announcements, designed for **Veltech University**.</p>
+      <p align="center">
+        🎯 A **Student Dashboard** featuring:  
+        ✅ GPA & CGPA Calculator  
+        ✅ Attendance Tracker  
+        ✅ University Events & Announcements  
+      </p>
       <p align="center">
         <a href="https://github.com/sharveshsanjay/Veltech-Student-Toolkit" target="_blank">
-          <img src="https://img.shields.io/badge/🔗%20View%20Project-blue?style=for-the-badge"/>
+          <img src="https://img.shields.io/badge/🔗%20View%20Project-informational?style=for-the-badge"/>
         </a>
       </p>
     </td>
@@ -98,6 +129,6 @@
 ### 🎯 Goals
 - 🚀 Get placed in a **product-based IT company**  
 - 🛠️ Build impactful projects for students, employees & communities  
-- 🌍 Scale **Nexa Works Studios** into a leading tech & design hub  
+- 🌍 Scale **Infonex Solutions** into a leading tech & design hub  
 
 ---
