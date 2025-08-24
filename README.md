@@ -23,19 +23,60 @@ Hello! I’m **Sharvesh Sanjay**, a passionate **Computer Science Engineer (AI &
 🌐 Portfolio: [sharveshsanjay.netlify.app](https://sharveshsanjay.netlify.app)  
 💬 Let’s connect over **JavaScript, React Native, Firebase, or innovative project ideas!**  
 
+---
+
+## 🚀 Currently Working Project  
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="600px" style="border: 2px solid #444; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #1f1c2c, #928dab); color: white;">
+
+<h2>📊 AI-Powered Sales Analytics Framework for Business Decision Support</h2>  
+
+<p><b>Minor Project – I | Veltech University</b></p>  
+
+<p>
+  <img src="https://img.shields.io/badge/Domain-Data%20Science%20&%20AI-blueviolet?style=for-the-badge"/>  
+  <img src="https://img.shields.io/badge/Category-Application-success?style=for-the-badge"/>  
+</p>  
+
+<p><i>Building a decision support system using AI-powered analytics for business insights</i></p>  
+
+<hr style="border: 1px solid #eee;"/>  
+
+<p align="left">
+  🎓 <b>Supervisor:</b> Dr. M. Muthupandi M.E., Ph.D., Assistant Professor (VelTech University)
+</p>  
+
+</td>
+</tr>
+</table>
+
+</div>
 
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Connect with Me  
+
 <p align="left">
-<a href="https://linkedin.com/in/sharvesh-sanjay-m-862a74317" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://instagram.com/sharveshsanjay_" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
+  <a href="https://linkedin.com/in/sharvesh-sanjay-m-862a74317" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/sharveshsanjay_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:sharveshsanjaym@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/sharveshsanjay" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
+
+
 
 ---
 
