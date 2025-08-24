@@ -50,7 +50,7 @@
       </p>
       <p>🚜 A Direct Market Access app that connects farmers directly with buyers, eliminating intermediaries and ensuring fair prices.</p>
       <p align="center">
-        <a href="https://github.com/sharveshsanjay/Farm-Connect" target="_blank">
+        <a href="https://github.com/sharveshsanjay/FarmConnect" target="_blank">
           <img src="https://img.shields.io/badge/🔗%20View%20Project-blue?style=for-the-badge"/>
         </a>
       </p>
