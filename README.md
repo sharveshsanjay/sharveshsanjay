@@ -10,9 +10,9 @@
 ### 👨‍💻 About Me
 - 🎓 2nd Year Computer Science Engineering (AI & DS) student at **Veltech University**  
 - 🔭 Working on **AI-Powered Sales Analytics Framework for Business Decision Support** *(Minor Project I)*  
-- 💡 Founder of **Nexa Works Studios** – providing design & tech services  
+- 💡 Founder of **Infonex Solutions** – providing design & tech services  
 - 🌱 Currently learning **React.js, Angular, Java, and UI/UX Design**  
-- 📚 Exploring **Data Science, Firebase/Supabase, and Scalable Systems**  
+- 📚 Exploring **Data Science, Firebase, and Scalable Systems**  
 - 👨‍💻 My projects are available at: [🌐 sharveshsanjay.netlify.app](https://sharveshsanjay.netlify.app)  
 - 💬 Ask me about **JavaScript, Firebase, React Native**  
 - 📫 Reach me at: **sharveshsanjay10@gmail.com**  
@@ -33,7 +33,7 @@
 
 ### 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,py,js,html,css,react,reactnative,angular,vue,flutter,nodejs,php,mysql,sqlite,firebase,supabase,git,figma,photoshop,bootstrap,tailwind,c,chartjs,pandas" />
+  <img src="https://skillicons.dev/icons?i=java,py,js,html,css,react,angular,vue,flutter,nodejs,php,mysql,sqlite,firebase,supabase,git,figma,photoshop,bootstrap,tailwind,c,chartjs,pandas" />
 </p>
 
 ---
