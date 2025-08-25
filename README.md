@@ -31,31 +31,34 @@ Hello! I’m **Sharvesh Sanjay**, a passionate **Computer Science Engineer (AI &
 
 <table>
 <tr>
-<td align="center" width="600px" style="border: 2px solid #444; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #1f1c2c, #928dab); color: white;">
+<td align="center" width="650px" style="border: 2px solid #444; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #1f1c2c, #928dab); color: white;">
 
 <h2>📊 AI-Powered Sales Analytics Framework for Business Decision Support</h2>  
 
 <p><b>Minor Project – I | Veltech University</b></p>  
 
 <p>
-  <img src="https://img.shields.io/badge/Domain-Data%20Science%20&%20AI-blueviolet?style=for-the-badge"/>  
-  <img src="https://img.shields.io/badge/Category-Application-success?style=for-the-badge"/>  
+  <img src="https://img.shields.io/badge/Domain-Data%20Science%20&%20AI-007bff?style=for-the-badge"/>  
+  <img src="https://img.shields.io/badge/Category-Application-blueviolet?style=for-the-badge"/>  
 </p>  
 
 <p><i>Building a decision support system using AI-powered analytics for business insights</i></p>  
 
+<p>
+  <img src="https://img.shields.io/badge/Status-Ongoing-28a745?style=for-the-badge&logo=progress" />
+</p>
+
 <hr style="border: 1px solid #eee;"/>  
 
 <p align="left">
-  🎓 <b>Supervisor:</b> Dr. M. Muthupandi M.E., Ph.D., Assistant Professor (VelTech University)
-</p>  
+  🎓 <b>Supervisor:</b> Dr. M. Muthupandi M.E., Ph.D., Assistant Professor (Veltech University)
+</p>  <br>
 
 </td>
 </tr>
 </table>
 
 </div>
-
 
 ---
 
@@ -121,7 +124,7 @@ Hello! I’m **Sharvesh Sanjay**, a passionate **Computer Science Engineer (AI &
       </p>
       <p align="center">
         <a href="https://github.com/sharveshsanjay/FarmConnect" target="_blank">
-          <img src="https://img.shields.io/badge/🔗%20View%20Project-success?style=for-the-badge"/>
+          <img src="https://img.shields.io/badge/🔗%20View%20Project-28a745?style=for-the-badge"/>
         </a>
       </p>
     </td>
@@ -132,8 +135,8 @@ Hello! I’m **Sharvesh Sanjay**, a passionate **Computer Science Engineer (AI &
     <td width="50%">
       <h3 align="center">🎒 Veltech Student Toolkit</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Built%20With-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS-blue?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Built%20With-JavaScript-ffca28?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS-007bff?style=for-the-badge" />
       </p>
       <p align="center">
         🎯 A **Student Dashboard** featuring:  
@@ -143,7 +146,7 @@ Hello! I’m **Sharvesh Sanjay**, a passionate **Computer Science Engineer (AI &
       </p>
       <p align="center">
         <a href="https://github.com/sharveshsanjay/Veltech-Student-Toolkit" target="_blank">
-          <img src="https://img.shields.io/badge/🔗%20View%20Project-informational?style=for-the-badge"/>
+          <img src="https://img.shields.io/badge/🔗%20View%20Project-28a745?style=for-the-badge"/>
         </a>
       </p>
     </td>
