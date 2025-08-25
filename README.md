@@ -31,7 +31,7 @@ Hello! I’m **Sharvesh Sanjay**, a passionate **Computer Science Engineer (AI &
 
 <table>
 <tr>
-<td align="center" width="650px" style="border: 2px solid #444; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #1f1c2c, #928dab); color: white;">
+<td align="center" width="640px" style="border: 2px solid #444; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #1f1c2c, #928dab); color: white;">
 
 <h2>📊 AI-Powered Sales Analytics Framework for Business Decision Support</h2>  
 
@@ -170,9 +170,22 @@ Hello! I’m **Sharvesh Sanjay**, a passionate **Computer Science Engineer (AI &
 
 ---
 
-### 🎯 Goals
-- 🚀 Get placed in a **product-based IT company**  
-- 🛠️ Build impactful projects for students, employees & communities  
-- 🌍 Scale **Infonex Solutions** into a leading tech & design hub  
+## 🎯 My Current Goals  
+
+> 💼 **Career Goal**  
+> Aim to get placed in a **Product-Based IT Company** (including opportunities in abroad) and grow as a skilled Full-Stack Developer and Data Analyst.  
+
+> 🛠️ **Project Goal**  
+> Work on **real-world solutions** like Farm Connect, Veltech Toolkit & QuickFeed to impact communities.  
+
+> 🌍 **Vision Goal**  
+> Build **Infonex Solutions** into a strong **Tech & Design Hub** recognized for quality & innovation.  
+
+### Status
+  <p align="center"> <img src="https://img.shields.io/badge/NEVER-GIVE_UP-ff4500?style=for-the-badge&logo=gnu-bash&logoColor=white" /> </p>
 
 ---
+
+<p align="center">
+  <em>Driven by discipline, powered by growth mindset, committed to the journey, and fueled by a never-quit attitude.</em>
+</p>---
