@@ -65,7 +65,7 @@ Hello! I’m **Sharvesh Sanjay**, a passionate **Computer Science Engineer (AI &
 ### 🌐 Connect with Me  
 
 <p align="left">
-  <a href="https://linkedin.com/in/sharvesh-sanjay-m-862a74317" target="_blank">
+  <a href="https://linkedin.com/in/sharveshsanjay" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/sharveshsanjay_" target="_blank">
@@ -91,15 +91,15 @@ Hello! I’m **Sharvesh Sanjay**, a passionate **Computer Science Engineer (AI &
   <br/>
 
   <!-- Frameworks & Libraries -->
-  <img src="https://skillicons.dev/icons?i=react,angular,vue,nextjs,nodejs,express,flutter,bootstrap,tailwind,chartjs" />
+  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,nextjs,express,flutter,bootstrap,tailwind,chartjs" />
   <br/>
 
   <!-- Databases & Backend -->
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,supabase,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,supabase,mongodb,php,postgres" /> 
   <br/>
 
   <!-- Tools & Platforms -->
-  <img src="https://skillicons.dev/icons?i=git,github,figma,photoshop,vscode,postman,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,photoshop,vscode,postman" />
   <br/>
 
   <!-- Data Science / AI -->
@@ -156,17 +156,20 @@ Hello! I’m **Sharvesh Sanjay**, a passionate **Computer Science Engineer (AI &
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharveshsanjay&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharveshsanjay&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&random=false&width=500&lines=🚀+Sharvesh's+GitHub+Journey;📊+GitHub+Stats+Overview;🔥+Keep+Pushing+Code!" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharveshsanjay&theme=radical" alt="GitHub Streak" />
-</p>
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=sharveshsanjay&show_icons=true&theme=radical&rank_icon=github" height="180"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharveshsanjay&layout=compact&theme=radical" height="180"/></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="https://streak-stats.vercel.app?user=sharveshsanjay&theme=radical&date_format=j%20M%5B%20Y%5D" height="180"/></td>
+  </tr>
+</table>
 
 ---
 
@@ -188,4 +191,6 @@ Hello! I’m **Sharvesh Sanjay**, a passionate **Computer Science Engineer (AI &
 
 <p align="center">
   <em>Driven by discipline, powered by growth mindset, committed to the journey, and fueled by a never-quit attitude.</em>
-</p>---
+</p>
+
+---
