@@ -71,7 +71,7 @@ Hello! I’m **Sharvesh Sanjay**, a passionate **Computer Science Engineer (AI &
   <a href="https://instagram.com/sharveshsanjay_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:sharveshsanjaym@gmail.com" target="_blank">
+  <a href="mailto:sharveshsanjay10@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/sharveshsanjay" target="_blank">
