@@ -87,7 +87,7 @@ Hello! I’m **Sharvesh Sanjay**, a passionate **Computer Science Engineer (AI &
 <h3 align="left">🚀 Tech Stack & Tools I Use:</h3>
 <p align="left">
   <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=java,py,js,ts,c,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,py,js,ts,c,html,css" />
   <br/>
 
   <!-- Frameworks & Libraries -->
