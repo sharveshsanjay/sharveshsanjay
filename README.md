@@ -45,7 +45,7 @@ Hello! I’m **Sharvesh Sanjay**, a passionate **Computer Science Engineer (AI &
 <p><i>Building a decision support system using AI-powered analytics for business insights</i></p>  
 
 <p>
-  <img src="https://img.shields.io/badge/Status-Ongoing-28a745?style=for-the-badge&logo=progress" />
+  <img src="https://img.shields.io/badge/Status-Published-28a745?style=for-the-badge&logo=progress" />
 </p>
 
 <hr style="border: 1px solid #eee;"/>  
