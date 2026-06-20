@@ -51,6 +51,12 @@ Successfully completed a semester through the **Semester Exchange Program** at I
 - Broadened perspective on technology, innovation, and global opportunities
 - Personal growth through independent learning and international experiences
 
+<div align="center">
+  <a href="https://www.linkedin.com/posts/sharveshsanjay_semesterexchange-internationaleducation-globallearning-ugcPost-7463641155721773056-DC-Y/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFBs_soBF7ASznpMhvlxO0c4HrXORPP3UU4" target="_blank" style="display: inline-block; background: #238636; color: #ffffff; border: none; padding: 8px 20px; font-size: 14px; font-weight: 500; border-radius: 6px; text-decoration: none; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+    View on LinkedIn →
+  </a>
+</div><br>
+
 > *A transformative journey that expanded my horizons beyond the classroom and strengthened my vision as a future technology professional.*
 
 ---
