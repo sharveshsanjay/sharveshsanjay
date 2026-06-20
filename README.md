@@ -7,12 +7,11 @@
 
 ---
 
-### 👨‍💻 About Me  
+<h1>👨‍💻 About Me</h1>  
 
 Hello! I’m **Sharvesh Sanjay**, a passionate **Computer Science Engineer (AI & DS)** blending technology with creativity to craft impactful digital solutions.  
 
 - 🎓 Currently pursuing **B.Tech CSE (AI & Data Science)** @ Veltech University, Chennai (2023–2027)  
-- 🚀 Founder of **Infonex Solutions** – delivering design, innovation & tech-driven products  
 - 💡 Skilled in **Full-Stack Development, Data Science, and Cloud-based Applications**  
 - 🌱 Actively learning and building with **React.js, Angular, Java, UI/UX, and Firebase**  
 - ⚡ Experienced in developing **AI-powered apps, academic systems & productivity tools**  
@@ -21,44 +20,38 @@ Hello! I’m **Sharvesh Sanjay**, a passionate **Computer Science Engineer (AI &
 
 📬 Reach me: **sharveshsanjay10@gmail.com**  
 🌐 Portfolio: [sharveshsanjay.netlify.app](https://sharveshsanjay.netlify.app)  
-💬 Let’s connect over **JavaScript, React Native, Firebase, or innovative project ideas!**  
+💬 Let’s connect over **JavaScript, React, Firebase, or innovative project ideas!**  
 
 ---
 
-## 🚀 Currently Working Project  
-
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="640px" style="border: 2px solid #444; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #1f1c2c, #928dab); color: white;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=🌏+International+Academic+Experience" />
+<br>
+<img src="https://www.mgkkklang.com/wp-content/uploads/2021/09/Home-Banner-INTI-980x327.png" width="300"/>
 
-<h2>📊 AI-Powered Sales Analytics Framework for Business Decision Support</h2>  
+<br>
 
-<p><b>Minor Project – I | Veltech University</b></p>  
-
-<p>
-  <img src="https://img.shields.io/badge/Domain-Data%20Science%20&%20AI-007bff?style=for-the-badge"/>  
-  <img src="https://img.shields.io/badge/Category-Application-blueviolet?style=for-the-badge"/>  
-</p>  
-
-<p><i>Building a decision support system using AI-powered analytics for business insights</i></p>  
-
-<p>
-  <img src="https://img.shields.io/badge/Status-Published-28a745?style=for-the-badge&logo=progress" />
-</p>
-
-<hr style="border: 1px solid #eee;"/>  
-
-<p align="left">
-  🎓 <b>Supervisor:</b> Dr. M. Muthupandi M.E., Ph.D., Assistant Professor (Veltech University)
-</p>  <br>
-
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/🏛️%20INTI%20International%20University-Malaysia-red?style=for-the-badge" /><br>
+<img src="https://img.shields.io/badge/📅%20January%202026-May%202026-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/✈️%20Semester%20Abroad-Completed-success?style=for-the-badge" />
 
 </div>
+<br>
+
+**INTI International University, Malaysia 🇲🇾**  
+*January 2026 – May 2026*
+
+Successfully completed a semester through the **Semester Exchange Program** at INTI International University, Malaysia. This international academic experience provided valuable exposure to global education practices, cultural diversity, and collaborative learning environments.
+
+**Key Achievements:**
+- International academic exposure in a multicultural environment
+- Cross-cultural collaboration with students from diverse backgrounds
+- Enhanced communication, adaptability, and interpersonal skills
+- Broadened perspective on technology, innovation, and global opportunities
+- Personal growth through independent learning and international experiences
+
+> *A transformative journey that expanded my horizons beyond the classroom and strengthened my vision as a future technology professional.*
 
 ---
 
@@ -179,10 +172,8 @@ Hello! I’m **Sharvesh Sanjay**, a passionate **Computer Science Engineer (AI &
 > Aim to get placed in a **Product-Based IT Company** (including opportunities in abroad) and grow as a skilled Full-Stack Developer and Data Analyst.  
 
 > 🛠️ **Project Goal**  
-> Work on **real-world solutions** like Farm Connect, Veltech Toolkit & QuickFeed to impact communities.  
+> Work on **real-world solutions** like Farm Connect, Veltech Toolkit, AI-Powered Sales Analytics Framework for Business Decision Support to impact communities.  
 
-> 🌍 **Vision Goal**  
-> Build **Infonex Solutions** into a strong **Tech & Design Hub** recognized for quality & innovation.  
 
 ### Status
   <p align="center"> <img src="https://img.shields.io/badge/NEVER-GIVE_UP-ff4500?style=for-the-badge&logo=gnu-bash&logoColor=white" /> </p>
